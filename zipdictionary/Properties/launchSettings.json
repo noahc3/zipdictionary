@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "zipdictionary": {
+      "commandName": "Project",
+      "commandLineArgs": "rockme.zip output rockyou.txt"
+    }
+  }
+}
